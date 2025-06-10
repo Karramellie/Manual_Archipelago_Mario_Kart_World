@@ -26,4 +26,4 @@
 ### Roughly 3-8 hours depending on your personal skill, difficulty and how steadily you get checks from others.
 
 
-Full Credit to ChristopheBonnefoi aka Narusnake for a majority of the catagory layout and balance inspired by his MK8Deluxe AP 
+### Full Credit to ChristopheBonnefoi aka Narusnake for a majority of the catagory layout and balance inspired by his MK8Deluxe AP 
