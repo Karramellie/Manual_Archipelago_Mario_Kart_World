@@ -3,6 +3,7 @@
 ### A Track focused Mario Kart World Manual AP that currently includes all Grand Prix Cups and Knockout Tour Rally Cups. Includes all characters and karts. None of the outfits are in the item pool so use them as you unlock the base character!
 ## Progression
 - Each cup has checks for getting in 3rd, 2nd, and 1st (Bronze, Silver, Gold) As well as getting in 1st for each track.
+<br><br/>
 *If you complete a race and get Gold, mark bronze and silver as complete. 
 <br><br/>
 - Rallys use the stars at the end of a cup instead of 1st place on a track. 
