@@ -25,12 +25,12 @@ Roughly 3-8 hours depending on your personal skill, difficulty and how steadily 
 
 ## Roadmap
 Mirror mode implimentation
-
+<br>
 Alternative costumes (outfits) as a mechanic
-
+<br>
 Vs Race Randomized Custom Cups
-
+<br>
 Time trial checks
-
+<br>
 Battle Mode Checks
 
