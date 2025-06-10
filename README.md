@@ -17,7 +17,7 @@ Pick between 50cc, 100cc, or 150cc
 ## Goal
 ### Get a Gold Trophy on 6 Cups (Prix or Rally) 
 ### Complete Rainbow Road
-
+<br><br/>
 ## Time to play
 Roughly 3-8 hours depending on your personal skill, difficulty and how steadily you get checks from others.
 <br><br/>
