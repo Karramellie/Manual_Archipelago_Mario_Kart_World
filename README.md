@@ -1,5 +1,4 @@
 # Archipelago Manual for Mario Kart World!
-<br><br/>
 ## Description
 ### A Track focused Mario Kart World Manual AP that currently includes all Grand Prix Cups and Knockout Tour Rally Cups. Includes all characters and karts. None of the outfits are in the item pool so use them as you unlock the base character!
 ## Progression
