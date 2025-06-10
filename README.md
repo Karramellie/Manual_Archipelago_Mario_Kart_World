@@ -31,13 +31,9 @@ Beta release
 - Implimented 'win with' character catagory
 <br><br/>
 ## Roadmap
-Mirror mode implimentation
-<br>
-Alternative costumes (outfits) as a mechanic
-<br>
-Vs Race Randomized Custom Cups
-<br>
-Time trial checks
-<br>
-Battle Mode Checks
+- Mirror mode implimentation
+- Alternative costumes (outfits) as a mechanic
+- Vs Race Randomized Custom Cups
+- Time trial checks
+- Battle Mode Checks
 
