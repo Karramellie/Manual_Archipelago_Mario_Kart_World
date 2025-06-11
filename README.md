@@ -30,9 +30,13 @@ Beta release
 - Location checks in all cups (rally and prix)
 - Added Star checks to Rallys in lieu of 1st place track checks
 - Implimented 'win with' character catagory
+### Version 0.2
+- Mirror Mode is now a check due to balance issues
+- Fixed numerous logic issues caused by missing requirements
+- Null regions removed
+- Corrected balance issues related to Rallys
 <br><br/>
 ## Roadmap
-- Mirror mode implimentation
 - Alternative costumes (outfits) as a mechanic
 - Vs Race Randomized Custom Cups
 - Time trial checks
