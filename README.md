@@ -37,7 +37,7 @@ Beta release
 - Corrected balance issues related to Rallys
 <br><br/>
 ## Roadmap
-- Alternative costumes (outfits) as a mechanic
+- Alternative costumes (outfits) as filler items
 - Vs Race Randomized Custom Cups
 - Time trial checks
 - Battle Mode Checks
