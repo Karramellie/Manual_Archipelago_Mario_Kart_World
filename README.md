@@ -41,7 +41,6 @@ Beta release
 The 'Coin' filler item should be far less common with 40 unique filler items!
 <br><br/>
 ## Roadmap
-- Alternative costumes (outfits) as filler items
 - Vs Race Randomized Custom Cups
 - Time trial checks
 - Battle Mode Checks
