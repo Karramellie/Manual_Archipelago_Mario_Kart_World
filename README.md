@@ -35,6 +35,10 @@ Beta release
 - Fixed numerous logic issues caused by missing requirements
 - Null regions removed
 - Corrected balance issues related to Rallys
+### Version 0.2.1
+-All Costumes "Outfits" have been added as filler items.
+<br><br/>
+The 'Coin' filler item should be far less common with 40 unique filler items!
 <br><br/>
 ## Roadmap
 - Alternative costumes (outfits) as filler items
